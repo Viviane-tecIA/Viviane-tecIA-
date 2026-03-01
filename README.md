@@ -1,6 +1,7 @@
 # 🚀 Perfil Profissional | Viviane-teclA
 
 > "Transformando resiliência e gestão de alta complexidade em soluções tecnológicas com IA."
+> "Mãe de 4 filhos, futura desenvolvedora e entusiasta de IA. Criando soluções inteligentes para educação financeira."
 
 ## 📝 Sobre Mim
 Olá! Sou uma profissional em transição para o mercado de tecnologia. A minha trajetória é marcada pela **gestão de alta complexidade na vida real**: como mãe de quatro filhos, desenvolvi uma capacidade única de priorização, disciplina e foco em resultados.
